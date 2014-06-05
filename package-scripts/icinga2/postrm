@@ -1,0 +1,9 @@
+#!/bin/bash
+#
+# Perform necessary icinga2 removal steps
+# after package is uninstalled.
+#
+
+echo "icinga2 has been uninstalled!"
+
+exit 0
